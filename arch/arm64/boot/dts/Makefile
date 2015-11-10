@@ -5,6 +5,7 @@ dtb-$(CONFIG_ARCH_XGENE) += apm-mustang.dtb
 dtb-$(CONFIG_MACH_ESPRESSO7420) += exynos7420-espresso7420.dtb exynos7420-universal7420-ufs.dtb
 dtb-$(CONFIG_MACH_UNIVERSAL7420) += exynos7420-zeroflte_usa_cdma_03.dtb
 dtb-$(CONFIG_MACH_UNIVERSAL7420) += exynos7420-zerolte_usa_cdma_05.dtb
+dtb-$(CONFIG_MACH_UNIVERSAL7420) += exynos7420-zerolte_usa_cdma_03.dtb
 
 targets += dtbs
 
